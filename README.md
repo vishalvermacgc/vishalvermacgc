@@ -2,7 +2,7 @@
 <h3 align="center">💻 BCA Student | Web Developer | Tech Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;BCA+Student;React+Learner;Open+Source+Enthusiast;Tech+Content+Creator&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;PROJECT+MANAGER;React+Learner;Open+Source+Enthusiast;Tech+Content+Creator&center=true&width=500&height=45">
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 BCA Student at **CGC Jhanjeri (2024–2027)**
 - 💻 Passionate about **Web Development**
-- 🌱 Currently learning **React & Data Structures**
+- 🌱 Currently learning **React & project manager**
 - 👨‍💻 Built **Civics Hub Educational Website**
 - 👨‍🏫 Founder of **Skill Learning Hub (500+ Students)**
 - 📺 Running a **YouTube Channel**
@@ -36,13 +36,19 @@ Tech Used:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)
 
 ---
 
